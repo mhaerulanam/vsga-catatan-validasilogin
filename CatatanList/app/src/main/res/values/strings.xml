@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CatatanList</string>
+    <string name="add_todo">ADD TODO</string>
+</resources>
